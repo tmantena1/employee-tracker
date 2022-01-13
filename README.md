@@ -34,3 +34,4 @@ SO THAT I can organize and plan my business
 
 ## Walkthrough
 
+Checkout a quick walkthrough of the app here: (https://watch.screencastify.com/v/Z2P8ZWVyQuxgetJwT4kM)
